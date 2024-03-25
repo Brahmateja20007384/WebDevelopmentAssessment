@@ -14,7 +14,8 @@ Before running this application, ensure that you have the following software ins
 1. Clone the repository to your local machine:
 
    ```bash
-   (https://github.com/Brahmateja20007384/WebDevelopmentAssessment.git)
+   https://github.com/Brahmateja20007384/WebDevelopmentAssessment.git
+   
 2. Navigate to the project directory:
    ```bash
    cd Doctor-Appointment-app
